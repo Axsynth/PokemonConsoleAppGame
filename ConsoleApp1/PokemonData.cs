@@ -38,6 +38,22 @@ namespace ConsoleApp1
                 Type2 = "",
             };
 
+            Pokemon pikachu = new Pokemon()
+            {
+                Number = 25,
+                Name = "Pikachu",
+                Type1 = "Electric",
+                Type2 = "",
+            };
+
+            Pokemon eevee = new Pokemon()
+            {
+                Number = 133,
+                Name = "Eevee",
+                Type1 = "Normal",
+                Type2 = "",
+            };
+
             PokemonList[0] = bulbasaur;
             PokemonList[1] = charmander;
             PokemonList[2] = squirtle;
