@@ -8,7 +8,7 @@ namespace ConsoleApp1
     {
         public string SetPlayerName(string nickName)
         {
-            return $"Hello Pokemon Trainer {nickName}. Your adventure is about to start.\n\nWelcome to the world of Pokemon!\n";
+            return $"\nHello Pokemon Trainer {nickName}. Your adventure is about to start.\n\nWelcome to the world of Pokemon!\n";
         }
     }
 }
