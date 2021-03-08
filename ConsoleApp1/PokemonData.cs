@@ -41,8 +41,8 @@ namespace ConsoleApp1
             PokemonList[0] = bulbasaur;
             PokemonList[1] = charmander;
             PokemonList[2] = squirtle;
-            PokemonList[3] = yes;
-            PokemonList[4] = no;
+            PokemonList[3] = pikachu;
+            PokemonList[4] = eevee;
 
         }
 
